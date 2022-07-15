@@ -53,7 +53,7 @@ int main()
         while (++count) 
       {
 
-        cout << "\n Hello all! Welcome!" << endl;       
+        cout << "\n I am Akash kumar!" << endl;       
         if (count == 3)
             raise(SIGSEGV);
       }
